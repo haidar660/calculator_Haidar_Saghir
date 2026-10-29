@@ -1,0 +1,21 @@
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.tmp/
+.virtualenv-app-data/
+
+# PyBuilder output
+.pybuilder/
+target/
+
+# Test and coverage output
+.coverage
+htmlcov/
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
